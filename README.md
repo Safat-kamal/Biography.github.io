@@ -1,5 +1,5 @@
 
-# Dr. Norman Bolaug (Biography)
+# Dr. Norman Borlaug (Biography)
 
 It is a single page site contain Design of Dr.Norman's BioGraphy Using
 
